@@ -1,0 +1,20 @@
+git config
+git add
+git commit
+git init
+git status
+git log
+git show
+git diff
+git rm
+git mv
+git checkout
+git reset
+git revert
+git branch
+git push origin
+git merge
+git remote add awesomeapp
+git remote show origin
+git pull
+git rebase
